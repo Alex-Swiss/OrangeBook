@@ -52,3 +52,4 @@ Relaying email through Zurich's O365 tenant to external employees is expressly p
 - Basic Authentication at End of Life 
 - EWS is supported but deprecated, please use MS Graph where possible
 
+![Decision Tree Cloud](Decision%20Tree%20Cloud.png) ![Decision Tree On Prem](Decision%20Tree%20On%20Prem.png)
