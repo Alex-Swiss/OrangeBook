@@ -2,4 +2,4 @@ Welcome to the Orange Book
 
 Checkout the sections on:
 
-Workforce Experience > [Messaging](messaging.html)
+Workforce Experience > [Messaging](docs/messaging.html)
