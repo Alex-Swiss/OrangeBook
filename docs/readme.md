@@ -1,2 +1,5 @@
-This is a readme file
-#file
+Welcome to the Orange Book
+
+Checkout the sections on:
+
+Workforce Experience > [Messaging](messaging.html)
